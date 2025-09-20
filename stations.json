@@ -66,7 +66,7 @@
             "name": "Mega Hits Portugal"
         },
         {
-            "url": "http://22713.live.streamtheworld.com:80/MEGA_HITS_SC",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3",
             "title": "RFM Portugal",
             "name": "RFM Portugal"
         }
