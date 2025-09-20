@@ -66,14 +66,14 @@
             "name": "Portugal r_Comercial"
         },
         {
-            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3",
-            "title": "RFM",
-            "name": "RFM"  --dead
-        },
-        {
             "url": "https://stream-icy.bauermedia.pt/cidade.mp3",
             "title": "Portugal cd_FM",
             "name": "Portugal cd_FM"
+        },
+        {
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3",
+            "title": "RFM",
+            "name": "RFM"  --dead
         },
         {
             "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
