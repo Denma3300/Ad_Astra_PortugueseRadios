@@ -62,23 +62,28 @@
         },
         {
             "url": "https://stream-icy.bauermedia.pt/comercial.mp3",
-            "title": "Radio Comercial",
-            "name": "Radio Comercial"
+            "title": "Comercial",
+            "name": "Comercial"
         },
         {
             "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3",
-            "title": "RFM Portugal",
-            "name": "RFM Portugal"
+            "title": "RFM",
+            "name": "RFM"
         },
         {
             "url": "https://stream-icy.bauermedia.pt/cidade.mp3",
-            "title": "Cidade FM",
-            "name": "Cidade FM"
+            "title": "FM",
+            "name": "FM"
         },
         {
             "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
-            "title": "Radio Renascença",
-            "name": "Radio Renascença"
+            "title": "Renascença",
+            "name": "Renascença"
+        },
+        {
+            "url": "https://stream-icy.bauermedia.pt/m80.acc",
+            "title": "M80",
+            "name": "M80"
         }
     ]
 }
