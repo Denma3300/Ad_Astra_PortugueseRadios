@@ -71,19 +71,14 @@
             "name": "Portugal cd_FM"
         },
         {
-            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3",
-            "title": "RFM",
-            "name": "RFM"  --dead
+            "url": "https://icecast.radiorfm.de:8443/rfm.mp3",
+            "title": "Portugal RFM",
+            "name": "Portugal RFM"
         },
         {
-            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
-            "title": "Renascença",
-            "name": "Renascença" --dead
-        },
-        {
-            "url": "https://stream-icy.bauermedia.pt/m80.acc",
-            "title": "M80",
-            "name": "M80"  --dead
+            "url": "https://stream-icy.bauermedia.pt/m80.mp3",
+            "title": "Portugal M80",
+            "name": "Portugal M80"
         }
     ]
 }
