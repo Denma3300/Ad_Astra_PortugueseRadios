@@ -69,6 +69,16 @@
             "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3",
             "title": "RFM Portugal",
             "name": "RFM Portugal"
+        },
+        {
+            "url": "https://stream-icy.bauermedia.pt/cidade.mp3",
+            "title": "Cidade FM",
+            "name": "Cidade FM"
+        },
+        {
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
+            "title": "Radio Renascença",
+            "name": "Radio Renascença"
         }
     ]
 }
