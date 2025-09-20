@@ -79,6 +79,11 @@
             "url": "https://stream-icy.bauermedia.pt/m80.mp3",
             "title": "Portugal M80",
             "name": "Portugal M80"
+        },
+        {
+            "url": "https://25603.live.streamtheworld.com/MEGA_HITS_SC",
+            "title": "Portugal MegaHits",
+            "name": "Portugal MegaHits"
         }
     ]
 }
