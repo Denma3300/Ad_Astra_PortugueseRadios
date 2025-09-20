@@ -68,7 +68,7 @@
         {
             "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3",
             "title": "RFM",
-            "name": "RFM"  //dead
+            "name": "RFM"  --dead
         },
         {
             "url": "https://stream-icy.bauermedia.pt/cidade.mp3",
@@ -78,12 +78,12 @@
         {
             "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
             "title": "Renascença",
-            "name": "Renascença" //dead
+            "name": "Renascença" --dead
         },
         {
             "url": "https://stream-icy.bauermedia.pt/m80.acc",
             "title": "M80",
-            "name": "M80"  //dead
+            "name": "M80"  --dead
         }
     ]
 }
