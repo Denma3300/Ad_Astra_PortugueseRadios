@@ -71,7 +71,7 @@
             "name": "Portugal cd_FM"
         },
         {
-            "url": "https://22733.live.streamtheworld.com/RFM_SC?dist=onlineradiobox:RFM",
+            "url": "https://icecast.radiorfm.de:8443/rfm.mp3",
             "title": "Portugal RFM",
             "name": "Portugal RFM"
         },
@@ -81,7 +81,7 @@
             "name": "Portugal M80"
         },
         {
-            "url": "https://25603.live.streamtheworld.com/MEGA_HITS_SC",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS.mp3",
             "title": "Portugal MegaHits",
             "name": "Portugal MegaHits"
         }
